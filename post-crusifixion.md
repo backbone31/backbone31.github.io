@@ -16,8 +16,8 @@ Also it's a stack based programming language, that means it doesn't have variabl
 
 As Piet, the notes and octaves are related in the following way:
 
-Notes cycle: 1st pentatonic note (main)-> 2nd pentatonic note-> 3rd pentatonic note-> 4th pentatonic note-> 5th pentatonic note -> 1st pentatonic note again
-Octave cycle: Bassest pitch -> Bassest pitch +1 octave -> Bassest pitch +2 octaves -> Bassest pitch
+**Notes cycle:** 1st pentatonic note (main)-> 2nd pentatonic note-> 3rd pentatonic note-> 4th pentatonic note-> 5th pentatonic note -> 1st pentatonic note again  
+**Octave cycle:** Bassest pitch -> Bassest pitch +1 octave -> Bassest pitch +2 octaves -> Bassest pitch
 
 **It's possible to combine octave change plus note change**
 
